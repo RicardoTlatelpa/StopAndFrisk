@@ -1,9 +1,13 @@
 # StopAndFrisk
 Data Mining Project
 
-*Always make sure to `git pull`(to get the most recent changes) from other classmates.
+# Dependencies to run notebook
+https://www.anaconda.com/
+https://www.edlitera.com/en/blog/posts/guide-how-to-start-jupyter-notebook
 
 # Git Branching
+
+*Always make sure to `git pull`(to get the most recent changes) from other classmates.
 
 `git branch -a` to list all local and remote branches
 
