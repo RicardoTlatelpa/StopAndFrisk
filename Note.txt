@@ -1,0 +1,67 @@
+cat_feature=list(Label_df.columns)+Feature_test
+Accuracy result in 
+Naive Bay
+Train_Accuracy: 0.7540549486924859
+Accuracy: 0.7527522556079794
+RandomForestClassifier
+Train_Accuracy: 0.7686449797202218
+Accuracy: 0.7586891757696127
+Linear
+Testing RMSE: 0.3933272901958596
+Training RMSE: 0.39954451590809414
+Log R
+Accuracy: 0.7619993379675604
+Train Accuract: 0.7571393096597964
+D tree
+Decision Tree score:  0.7570340946706389
+Train_Decision Tree score:  0.7686449797202218
+dummy_reg
+Training error 0.47084552628064064
+TestError: 0.46784965294918474
+
+RandomForestClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.7506005337468867 
+ 
+
+RandomForestClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.7506005337468867 
+ 
+
+LogisticRegression(max_iter=1000, random_state=0) 
+
+Cross-Validation Accuracy: 0.7558981017461853 
+ 
+
+DecisionTreeClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.7520903944740208 
+ 
+ 0.7570340946706389
+
+
+ With Body type
+
+ RandomForestClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.7450545871270553 
+ 
+
+RandomForestClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.7450545871270553 
+ 
+
+LogisticRegression(max_iter=1000, random_state=0) 
+
+Cross-Validation Accuracy: 0.7557324703329342 
+ 
+
+DecisionTreeClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.7442269780555503 
+ 
+
+0.7500827540549487
+
