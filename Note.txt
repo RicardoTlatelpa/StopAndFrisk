@@ -65,3 +65,28 @@ Cross-Validation Accuracy: 0.7442269780555503
 
 0.7500827540549487
 
+
+Added search and frisk flag features but remove ['SUSPECT_BODY_BUILD_TYPE']
+RandomForestClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.8577939238342095 
+ 
+
+RandomForestClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.8577939238342095 
+ 
+
+LogisticRegression(max_iter=1000, random_state=0) 
+
+Cross-Validation Accuracy: 0.8606905213348057 
+ 
+
+DecisionTreeClassifier(random_state=42) 
+
+Cross-Validation Accuracy: 0.8549795255461452 
+ 
+
+0.8649453823237339
+
+
